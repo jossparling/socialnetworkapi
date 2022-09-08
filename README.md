@@ -19,3 +19,5 @@ This app is an API for a social networking site.
 JavaScript is used as the date library, Express.js is used for routing, it has a MongoDB database, and the Mongoose ODM.
 
 ## walkthrough video 
+
+https://drive.google.com/file/d/19TVLZqpdGvJx5BNPzeMH6coYCTrJovlG/view
